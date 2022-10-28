@@ -4,6 +4,7 @@
 | hidden_layer_sizes | 20 |
 | max_iter | 1000 |
 | activation | "relu"|
+
 ![](default.jpg)
 
 | | |
